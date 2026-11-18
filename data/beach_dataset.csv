@@ -1,0 +1,18 @@
+# BLUEGUARD beach dataset - one row per monitored zone.
+# Columns (all readings are percentages 0-100):
+# zone_id,zone_name,plastic_waste,water_quality,erosion_level,waste_coverage,visitor_load,environmental_anomaly
+# Lines starting with '#' and the header row are ignored. You can replace the rows below
+# with values prepared from any public dataset (see README section "Using a website dataset").
+zone_id,zone_name,plastic_waste,water_quality,erosion_level,waste_coverage,visitor_load,environmental_anomaly
+Z01,North Gate,31,76,22,28,61,10
+Z02,North East,44,68,30,35,55,18
+Z03,East Point,58,60,35,47,66,22
+Z04,East Bay,67,52,40,55,70,28
+Z05,Central East,52,58,33,44,60,20
+Z06,Central,60,55,38,50,82,25
+Z07,Central West,72,48,61,58,45,30
+Z08,West Bay,49,63,28,40,58,15
+Z09,West Point,36,71,24,30,50,12
+Z10,South West,63,46,74,62,40,35
+Z11,South Central,40,66,27,33,47,14
+Z12,South Gate,81,40,55,70,38,42

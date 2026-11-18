@@ -1,0 +1,50 @@
+"Region","State Park Beach","Waterbody","Category","Date Sample Taken","Results Modifier","Results","Indicator Bacteria","Beach Status","Status Reason"
+"Allegany","Allegany SP (Quaker Lake)","Quaker Lake","2","07/17/2021","=","90","E.coli","Closed","Preemptive: rainfall"
+"Allegany","Allegany SP (Quaker Lake)","Quaker Lake","2","07/18/2021","=",,"E.coli","Closed","Weather"
+"Allegany","Allegany SP (Quaker Lake)","Quaker Lake","2","07/19/2021","=","90","E.coli","Closed","Harmful Algal Bloom"
+"Allegany","Allegany SP (Quaker Lake)","Quaker Lake","2","08/19/2021","=","640","E.coli","Closed","Harmful Algal Bloom"
+"Allegany","Allegany SP (Quaker Lake)","Quaker Lake","2","08/07/2023","=","870","E.coli","Closed","Exceedance"
+"Allegany","Allegany SP (Quaker Lake)","Quaker Lake","2","09/03/2024","=","1,110","E.coli","Off - Season","Exceedance"
+"Allegany","Allegany SP (Quaker Lake)","Quaker Lake","2","07/07/2025","=","30","E.coli","Open",
+"Allegany","Allegany SP (Quaker Lake)","Quaker Lake","2","08/18/2025","=","20","E.coli","Open",
+"Allegany","Allegany SP (Quaker Lake)","Quaker Lake","2","07/14/2025","=","10","E.coli","Open",
+"Allegany","Allegany SP (Quaker Lake)","Quaker Lake","2","08/28/2023","<","10","E.coli","Open",
+"Allegany","Allegany SP (Quaker Lake)","Quaker Lake","2","08/01/2025","=","100","E.coli","Reopened","Clear after resample"
+"Allegany","Allegany SP (Quaker Lake)","Quaker Lake","2","07/01/2024","=","120","E.coli","Reopened","Clear after resample"
+"Allegany","Allegany SP (Red House)","Red House Lake","2","08/18/2022","=","350","E.coli","Closed","Harmful Algal Bloom"
+"Allegany","Allegany SP (Red House)","Red House Lake","2","08/22/2022","=","300","E.coli","Closed","Exceedance"
+"Allegany","Allegany SP (Red House)","Red House Lake","2","07/01/2024","=","550","E.coli","Closed","Exceedance"
+"Allegany","Allegany SP (Red House)","Red House Lake","2","08/15/2024","=","1,320","E.coli","Closed","Exceedance"
+"Allegany","Allegany SP (Red House)","Red House Lake","2","07/15/2024","=","140","E.coli","Open",
+"Allegany","Allegany SP (Red House)","Red House Lake","2","06/23/2025","=","10","E.coli","Open",
+"Allegany","Allegany SP (Red House)","Red House Lake","2","07/12/2021","=","30","E.coli","Open",
+"Allegany","Allegany SP (Red House)","Red House Lake","2","07/06/2021","=","80","E.coli","Open",
+"Allegany","Allegany SP (Red House)","Red House Lake","2","08/04/2025","=","40","E.coli","Open",
+"Allegany","Allegany SP (Red House)","Red House Lake","2","06/17/2024","<","10","E.coli","Open","Preseason"
+"Allegany","Allegany SP (Red House)","Red House Lake","2","08/08/2024","=","110","E.coli","Reopened","Clear after resample"
+"Niagara","Beaver Island SP","Niagara River","1","08/06/2024","=","780","E.coli","Closed","Exceedance"
+"Niagara","Beaver Island SP","Niagara River","1","09/08/2021","=","4,200","E.coli","Off - Season","Exceedance"
+"Niagara","Beaver Island SP","Niagara River","1","09/01/2025","=","4","E.coli","Open",
+"Niagara","Beaver Island SP","Niagara River","1","08/25/2025","<","10","E.coli","Open",
+"Niagara","Beaver Island SP","Niagara River","1","08/18/2025","=","80","E.coli","Open",
+"Niagara","Beaver Island SP","Niagara River","1","08/11/2025","=","15","E.coli","Open",
+"Niagara","Beaver Island SP","Niagara River","1","07/29/2025","=","132","E.coli","Open",
+"Niagara","Beaver Island SP","Niagara River","1","05/27/2024",">","8,000","E.coli","Open with Advisory","Exceedance"
+"Niagara","Beaver Island SP","Niagara River","1","08/12/2024","=","450","E.coli","Open with Advisory","Exceedance"
+"Niagara","Beaver Island SP","Niagara River","1","08/07/2024","=","80","E.coli","Reopened","Clear after resample"
+"Central","Bowman Lake SP","Bowman Lake","1","09/07/2017","=","14.6","E. coli","Closed","Closed for end of season"
+"Central","Bowman Lake SP","Bowman Lake","1","05/16/2017","<","1","E. coli","Closed","Preseason"
+"Central","Bowman Lake SP","Bowman Lake","1","08/20/2019","=","6.3","E. coli","Open",
+"Central","Bowman Lake SP","Bowman Lake","1","07/23/2019","=","27.5","E. coli","Open",
+"Central","Bowman Lake SP","Bowman Lake","1","07/16/2019","=","9.7","E. coli","Open",
+"Central","Bowman Lake SP","Bowman Lake","1","06/25/2019","=","2","E. coli","Open",
+"Central","Bowman Lake SP","Bowman Lake","1","08/11/2016","=",,,"Closed","Blue-green algae"
+"Central","Bowman Lake SP","Bowman Lake","1","08/12/2016","=",,,"Reopened","Blue-green algae clear"
+"Finger Lakes","Buttermilk Falls SP (Falls Swim Area)","Buttermilk Creek","2","07/01/2021","=","630","E.coli","Closed","Exceedance"
+"Finger Lakes","Buttermilk Falls SP (Falls Swim Area)","Buttermilk Creek","2","07/14/2021","=","1,290","E.coli","Closed","Exceedance"
+"Finger Lakes","Buttermilk Falls SP (Falls Swim Area)","Buttermilk Creek","2","07/14/2025",">","2,000","E.coli","Closed","Exceedance"
+"Finger Lakes","Buttermilk Falls SP (Falls Swim Area)","Buttermilk Creek","2","08/04/2025","=","15","E.coli","Open",
+"Finger Lakes","Buttermilk Falls SP (Falls Swim Area)","Buttermilk Creek","2","07/21/2025","=","35","E.coli","Open",
+"Finger Lakes","Buttermilk Falls SP (Falls Swim Area)","Buttermilk Creek","2","08/11/2025","=","175","E.coli","Open",
+"Finger Lakes","Buttermilk Falls SP (Falls Swim Area)","Buttermilk Creek","2","07/07/2025","=","70","E.coli","Open",
+"Finger Lakes","Buttermilk Falls SP (Falls Swim Area)","Buttermilk Creek","2","07/28/2025","=","30","E.coli","Reopened",

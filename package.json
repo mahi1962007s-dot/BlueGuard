@@ -1,0 +1,24 @@
+{
+  "name": "beach-health-monitoring-system",
+  "version": "1.0.0",
+  "description": "BLUEGUARD - Beach Health Monitoring System | ML2001 Fundamentals of Data Structures course project (Units 1-3: Arrays, Linked Lists, Stacks & Queues)",
+  "main": "backend/server.js",
+  "scripts": {
+    "start": "node backend/server.js",
+    "dev": "node backend/server.js"
+  },
+  "keywords": [
+    "dsa",
+    "data-structures",
+    "college-project",
+    "beach-monitoring"
+  ],
+  "author": "Vishwakarma Institute of Technology, Pune - ML2001 Student",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
